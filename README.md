@@ -1,9 +1,9 @@
 ### Hi there, I'm João Lucas 
 
-- 🔭 I’m currently working with  Dev web  Full Stack
+- 🔭 I’m currently working with Dev web  Full Stack
 - 🧑‍🎓 Technical Systems Development and Chemical Engineering
 - 📫 How to reach me: jlnascimentoandrade@gmail.com
-- ⚡ Fun fact: ...
+
 <div style="display: flex;">
     <details open>
         <summary><strong>GitHub Stats<strong></summary>
@@ -27,7 +27,7 @@
 <div> 
     <a href="https://www.instagram.com/jlnascimentoandrade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/lucas.nascimentoandrade/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-     <a href = "jlnascimentoandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "mailto:jlnascimentoandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joaolucas-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 ![Snake animation](https://github.com/Jlucas93/Jlucas93/blob/output/github-contribution-grid-snake.svg)
