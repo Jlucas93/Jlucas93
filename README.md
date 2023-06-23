@@ -9,8 +9,6 @@
         <summary><strong>GitHub Stats<strong></summary>
         <a href="https://github.com/Jlucas93">
             <img height="163em"
-                src="https://github-readme-stats.vercel.app/api?username=Jlucas93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-            <img height="163em"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlucas93&layout=compact&langs_count=10&theme=dracula&hide=html,scss,shell,CMake%2C%20Makefile" />
     </details>
 </div>
