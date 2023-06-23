@@ -1,7 +1,7 @@
 ### Hi there, I'm João Lucas 
 
 - 🔭 I’m currently working with Dev web  Full Stack
-- 🧑‍🎓 Technical Systems Development and Chemical Engineering
+- 🧑‍🎓 Software Engineer and Chemical Engineer
 - 📫 How to reach me: jlnascimentoandrade@gmail.com
 
 <div style="display: flex;">
